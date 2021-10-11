@@ -1,0 +1,15 @@
+.container{
+    background-color: rgb(237, 242, 244);
+    border-radius: 5px;
+    margin-top: 20px;
+    width: 70%;
+}
+.jumbotron{
+    padding: 30px;
+}
+.jumbotron h1{
+    font-family: sans-serif;
+    font-size: 50px;
+    font-weight: lighter;
+    letter-spacing: -2px;
+}
